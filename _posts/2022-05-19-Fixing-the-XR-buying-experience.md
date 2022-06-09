@@ -16,13 +16,15 @@ By far the most misleading part of the buying experience, however, is the blatan
 *Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.*
 
 
-![](/blog/assets/images/kguttag.png)
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+<figure>
+  <img src="/blog/assets/images/kguttag.png" style="width:100%">
+  <figcaption>Shot-through [images](https://kguttag.com/2019/12/18/hololens-2-not-a-pretty-picture/) showing what HL2 users actually see.</figcaption>
+</figure>
 
-*Shot-through [images](https://kguttag.com/2019/12/18/hololens-2-not-a-pretty-picture/) showing what HL2 users actually see.*
-
-  <img src="/blog/assets/images/kguttag.png" alt="Trulli" style="width:100%">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+<figure>
+  <img src="/blog/assets/images/kguttag.png" style="width:100%">
+  <figcaption>Shot-through <a href="https://kguttag.com/2019/12/18/hololens-2-not-a-pretty-picture/">images</a> showing what HL2 users actually see.</figcaption>
+</figure>
 
 ![](/blog/assets/images/ezgif-5-939f735720.gif)
 *Tilt-five [video](https://www.reddit.com/r/augmentedreality/comments/uhiply/tilt_five_adding_new_experiences_to_system_they/) showcasing high-contrast 3D images in a well-lit room.*
@@ -39,10 +41,6 @@ By far the most misleading part of the buying experience, however, is the blatan
 ![](/blog/assets/images/THROUGH_THE_LENSES__Quest_2_vs_Quest_1.gif)
 *Shot-through [video](https://www.youtube.com/watch?v=2FH4iIrY5LU) on the quest.*
 
-<figure>
-  <img src="/blog/assets/images/kguttag.png" alt="Trulli" style="width:100%">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-</figure>
 
 
 
