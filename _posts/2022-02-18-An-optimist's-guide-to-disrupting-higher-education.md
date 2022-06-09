@@ -1,5 +1,5 @@
 ---
-title: The optimist's guide to disrupting higher education
+title: An optimist's guide to disrupting higher education
 author: Rayan Saleh
 category:
 layout: post
@@ -54,4 +54,4 @@ Now, what might this new improved system look like:
 The undergraduate degree has embedded itself within our cultural fabric and continues to have strong network effects today. The democratisation of higher education - that is, allowing anyone to have a world-class education - will happen sooner than most people think. The incumbents will begin loosing the strong network effects that have led to their complacency just as the disrupters begin getting theirs.
 
 
-![](/assets/images/1851map.png)
+![](/assets/images/1851map.jpeg)
