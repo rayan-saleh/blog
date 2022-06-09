@@ -12,20 +12,16 @@ The problem compounds every year as spec lists grow. Even in the best case, when
 By far the most misleading part of the buying experience, however, is the blatant false advertising used by headset companies in their promotional content.
 
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71fec866-f0fa-472e-ba0f-05a9e7814afc/ezgif-5-bf6ec19f63.gif)
-Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.
-
-
-
-*image_caption*
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71fec866-f0fa-472e-ba0f-05a9e7814afc/ezgif-5-bf6ec19f63.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220609T151438Z&X-Amz-Expires=86400&X-Amz-Signature=afe75229bd8d6be11f741a83e17ec72cdde7dd78133528386160e6066538fad3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ezgif-5-bf6ec19f63.gif%22&x-id=GetObject)
+*Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.*
 
 
 
 
-![Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71fec866-f0fa-472e-ba0f-05a9e7814afc/ezgif-5-bf6ec19f63.gif)
+![Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71fec866-f0fa-472e-ba0f-05a9e7814afc/ezgif-5-bf6ec19f63.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220609T151438Z&X-Amz-Expires=86400&X-Amz-Signature=afe75229bd8d6be11f741a83e17ec72cdde7dd78133528386160e6066538fad3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ezgif-5-bf6ec19f63.gif%22&x-id=GetObject)
 
 
-![Amazon Rainforest](/assets/images/icon-512.png)
+![Amazon Rainforest](blog/assets/images/icon-512.png)
 
 
 ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/634527d7-f026-411b-b4fc-6849390e33b3/Untitled.png)
