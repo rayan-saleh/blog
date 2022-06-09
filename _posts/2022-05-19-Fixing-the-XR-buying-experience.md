@@ -12,48 +12,30 @@ The problem compounds every year as spec lists grow. Even in the best case, when
 By far the most misleading part of the buying experience, however, is the blatant false advertising used by headset companies in their promotional content.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71fec866-f0fa-472e-ba0f-05a9e7814afc/ezgif-5-bf6ec19f63.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220609T151438Z&X-Amz-Expires=86400&X-Amz-Signature=afe75229bd8d6be11f741a83e17ec72cdde7dd78133528386160e6066538fad3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ezgif-5-bf6ec19f63.gif%22&x-id=GetObject)
+![](/blog/assets/images/ezgif-5-bf6ec19f63.gif)
 *Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.*
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/634527d7-f026-411b-b4fc-6849390e33b3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220609T152313Z&X-Amz-Expires=86400&X-Amz-Signature=5c2ead6fe01f25c3332f99985f2e295c37324c21106ea89c5aa18c0147e5a254&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](/blog/assets/images/kguttag.png)
 *Shot-through [images](https://kguttag.com/2019/12/18/hololens-2-not-a-pretty-picture/) showing what HL2 users actually see.*
 
 
-![]({{ /assets/images/icon-512.png | prepend: site.baseurl }})
+![](/blog/assets/images/ezgif-5-939f735720.gif)
 *Tilt-five [video](https://www.reddit.com/r/augmentedreality/comments/uhiply/tilt_five_adding_new_experiences_to_system_they/) showcasing high-contrast 3D images in a well-lit room.*
 
-![](/assets/images/icon-512.png)
-1
-![](/images/icon-512.png)
-2
-![](/icon-512.png)
-3
-![](blog/assets/images/icon-512.png)
-4
+
+![](/blog/assets/images/clipboardtilt.png)
+*Shot-through [video](https://www.youtube.com/watch?v=lRGHBtshVEo) in dark room.*
 
 
-<img src='/assets/images/icon-512.png'></img>
-5
+![](/blog/assets/images/ezgif-5-0d4b5a2fe3.gif)
+*Quest promo [video](https://www.youtube.com/watch?v=60yP8f5E-B4) showing full FoV and near-eye-level resolution.*
 
 
-<img src='blog/assets/images/icon-512.png'></img>
-6
+![](/blog/assets/images/THROUGH_THE_LENSES__Quest_2_vs_Quest_1.gif)
+*Shot-through [video](https://www.youtube.com/watch?v=2FH4iIrY5LU) on the quest.*
 
 
-
-
-![Shot-through [video](https://www.youtube.com/watch?v=lRGHBtshVEo) in dark room.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd57d953-1a29-4b70-b4b3-de848745ad0c/clipboard_(3).png)
-
-Shot-through [video](https://www.youtube.com/watch?v=lRGHBtshVEo) in dark room.
-
-![Quest promo [video](https://www.youtube.com/watch?v=60yP8f5E-B4) showing full FoV and near-eye-level resolution.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ec91dab-1483-48a6-8842-730508488236/ezgif-5-0d4b5a2fe3.gif)
-
-Quest promo [video](https://www.youtube.com/watch?v=60yP8f5E-B4) showing full FoV and near-eye-level resolution.
-
-![Shot-through [video](https://www.youtube.com/watch?v=2FH4iIrY5LU) on the quest.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30df1bca-0471-4a20-b2d2-c7b0a0f61998/THROUGH_THE_LENSES__Quest_2_vs_Quest_1_(1).gif)
-
-Shot-through [video](https://www.youtube.com/watch?v=2FH4iIrY5LU) on the quest.
 
 Now I know what you’re thinking: no one *actually* believes this is how it’ll look irl. Companies will also argue that the content isn’t meant to represent what the actual user experience is like - that it’s just a way of showcasing the high-level potential of the tech. But, if no footage of the real user experience exists (as is true in most cases), users use the promotional content as the de facto representation of the true experience. 
 
