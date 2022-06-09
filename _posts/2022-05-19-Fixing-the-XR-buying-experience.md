@@ -12,13 +12,9 @@ The problem compounds every year as spec lists grow. Even in the best case, when
 By far the most misleading part of the buying experience, however, is the blatant false advertising used by headset companies in their promotional content.
 
 
-![](/blog/assets/images/ezgif-5-bf6ec19f63.gif)
-*Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.*
-
-
 <figure>
-  <img src="/blog/assets/images/kguttag.png" style="width:100%">
-  <figcaption>Shot-through [images](https://kguttag.com/2019/12/18/hololens-2-not-a-pretty-picture/) showing what HL2 users actually see.</figcaption>
+  <img src="/blog/assets/images/ezgif-5-bf6ec19f63.gif" style="width:100%">
+  <figcaption>Promo video from the Hololens <a href="https://www.microsoft.com/en-us/hololens">homepage</a>. No ‘real’ demo shown.</figcaption>
 </figure>
 
 <figure>
@@ -26,22 +22,26 @@ By far the most misleading part of the buying experience, however, is the blatan
   <figcaption>Shot-through <a href="https://kguttag.com/2019/12/18/hololens-2-not-a-pretty-picture/">images</a> showing what HL2 users actually see.</figcaption>
 </figure>
 
-![](/blog/assets/images/ezgif-5-939f735720.gif)
-*Tilt-five [video](https://www.reddit.com/r/augmentedreality/comments/uhiply/tilt_five_adding_new_experiences_to_system_they/) showcasing high-contrast 3D images in a well-lit room.*
+<figure>
+  <img src="/blog/assets/images/ezgif-5-939f735720.gif" style="width:100%">
+  <figcaption>Tilt-five <a href="https://www.reddit.com/r/augmentedreality/comments/uhiply/tilt_five_adding_new_experiences_to_system_they/">video</a> showcasing high-contrast 3D images in a well-lit room.</figcaption>
+</figure>
+
+<figure>
+  <img src="/blog/assets/images/clipboardtilt.png" style="width:100%">
+  <figcaption>Shot-through <a href="https://www.youtube.com/watch?v=lRGHBtshVEo">video</a> in dark room.</figcaption>
+</figure>
+
+<figure>
+  <img src="/blog/assets/images/ezgif-5-0d4b5a2fe3.gif" style="width:100%">
+  <figcaption>Quest promo <a href="https://www.youtube.com/watch?v=60yP8f5E-B4">video</a> showing full FoV and near-eye-level resolution.</figcaption>
+</figure>
 
 
-![](/blog/assets/images/clipboardtilt.png)
-*Shot-through [video](https://www.youtube.com/watch?v=lRGHBtshVEo) in dark room.*
-
-
-![](/blog/assets/images/ezgif-5-0d4b5a2fe3.gif)
-*Quest promo [video](https://www.youtube.com/watch?v=60yP8f5E-B4) showing full FoV and near-eye-level resolution.*
-
-
-![](/blog/assets/images/THROUGH_THE_LENSES__Quest_2_vs_Quest_1.gif)
-*Shot-through [video](https://www.youtube.com/watch?v=2FH4iIrY5LU) on the quest.*
-
-
+<figure>
+  <img src="/blog/assets/images/THROUGH_THE_LENSES__Quest_2_vs_Quest_1.gif" style="width:100%">
+  <figcaption>Shot-through <a href="https://www.youtube.com/watch?v=2FH4iIrY5LU">video</a> on the quest.</figcaption>
+</figure>
 
 
 
