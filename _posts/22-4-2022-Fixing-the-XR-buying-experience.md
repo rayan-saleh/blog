@@ -1,15 +1,25 @@
 ---
 layout: post
-title: "The Adventure of the Cardboard Box"
-author: "Arthur Conan Doyle"
-categories: literature
+title: "Fixing the XR buying experience"
+author: "Rayan Saleh"
+categories: XR
 ---
 
 In choosing a few typical cases which illustrate the remarkable mental qualities of my friend, Sherlock Holmes[^1], I have endeavoured, as far as possible, to select those which presented the minimum of sensationalism, while offering a fair field for his talents. It is, however, unfortunately impossible entirely to separate the sensational from the criminal, and a chronicler is left in the dilemma that he must either sacrifice details which are essential to his statement and so give a false impression of the problem, or he must use matter which chance, and not choice, has provided him with. With this short preface I shall turn to my notes of what proved to be a strange, though a peculiarly terrible, chain of events.
 
-It was a blazing hot day in August. Baker Street was like an oven, and the glare of the sunlight upon the yellow brickwork of the house across the road was painful to the eye. It was hard to believe that these were the same walls which loomed so gloomily through the fogs of winter. Our blinds were half-drawn, and Holmes lay curled upon the sofa, reading and re-reading a letter which he had received by the morning post. For myself, my term of service in India had trained me to stand heat better than cold, and a thermometer at ninety was no hardship. But the morning paper was uninteresting. Parliament had risen. Everybody was out of town, and I yearned for the glades of the New Forest or the shingle of Southsea. A depleted bank account had caused me to postpone my holiday, and as to my companion, neither the country nor the sea presented the slightest attraction to him. He loved to lie in the very center of five millions of people, with his filaments stretching out and running through them, responsive to every little rumour or suspicion of unsolved crime. Appreciation of nature found no place among his many gifts, and his only change was when he turned his mind from the evil-doer of the town to track down his brother of the country.
+![](https://sherlock-holm.es/stories/html/pictures/prio-1.png)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71fec866-f0fa-472e-ba0f-05a9e7814afc/ezgif-5-bf6ec19f63.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220609T125700Z&X-Amz-Expires=86400&X-Amz-Signature=c6b758ec76ca3c4143ed509504efc3c2156efffcb27ea7bcae343fbad0aaf8ec&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ezgif-5-bf6ec19f63.gif%22&x-id=GetObject)
 
+The XR (AR, VR, MR) buying experience is broken. The process feels a little like buying a car without taking it for a test-drive first. For first-time-XR-buyers, it’s like buying a car having never even been in one. Whilst I knew the key specs before buying my first headset, I had no way of knowing whether the 90° field-of-view was enough, what the actual image looked like, or how it would compare to other devices. I suspect this is going to be a major blocker to mass user adoption (after XR’s largely gimmicky use-cases) and I’m surprised there hasn’t been much discussion on solving it.
+
+The problem compounds every year as spec lists grow. Even in the best case, when a user understands, has prioritised and compared specs across devices, they still miss key nuances that you can only spot having compared the headsets first-hand. The XR comparison site [vr-compare.com](https://vr-compare.com/compare?h1=GeZ01ojF8&h2=ZhHpFl6JF) displays the problem well. Though it does an amazing job of showcasing the specs in a clear and ordered way, it isn’t obvious how the actual visual experience of the headsets differ.
 Finding that Holmes was too absorbed for conversation I had tossed side the barren paper, and leaning back in my chair I fell into a brown study. Suddenly my companion's voice broke in upon my thoughts:
+
+![Shot-through [video](https://www.youtube.com/watch?v=2FH4iIrY5LU) on the quest.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30df1bca-0471-4a20-b2d2-c7b0a0f61998/THROUGH_THE_LENSES__Quest_2_vs_Quest_1_(1).gif)
+
+Shot-through [video](https://www.youtube.com/watch?v=2FH4iIrY5LU) on the quest.
+
+
 
 “You are right, Watson,” said he. “It does seem a most preposterous way of settling a dispute.”
 

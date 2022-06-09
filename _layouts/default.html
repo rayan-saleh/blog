@@ -22,14 +22,14 @@
   <body>
 
     {% if page.layout == 'home' %}
-      <a href="#main" class="skip-navigation">
-        Skip to list of posts
+    <a href="#main" class="skip-navigation">
+      Skip to list of posts
       </a>
-    {% else %}
+      {% else %}
       <a href="#main" class="skip-navigation">
         Skip to content
-      </a>
-    {% endif %}
+        </a>
+        {% endif %}
 
     {{ content }}
 
