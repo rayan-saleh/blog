@@ -11,11 +11,24 @@ The problem compounds every year as spec lists grow. Even in the best case, when
 
 By far the most misleading part of the buying experience, however, is the blatant false advertising used by headset companies in their promotional content.
 
-![Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71fec866-f0fa-472e-ba0f-05a9e7814afc/ezgif-5-bf6ec19f63.gif)
 
+![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71fec866-f0fa-472e-ba0f-05a9e7814afc/ezgif-5-bf6ec19f63.gif)
 Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.
 
-![Shot-through [images](https://kguttag.com/2019/12/18/hololens-2-not-a-pretty-picture/) showing what HL2 users actually see.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/634527d7-f026-411b-b4fc-6849390e33b3/Untitled.png)
+
+
+*image_caption*
+
+
+
+
+![Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71fec866-f0fa-472e-ba0f-05a9e7814afc/ezgif-5-bf6ec19f63.gif)
+
+
+![Amazon Rainforest](/assets/images/icon-512.png)
+
+
+![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/634527d7-f026-411b-b4fc-6849390e33b3/Untitled.png)
 
 Shot-through [images](https://kguttag.com/2019/12/18/hololens-2-not-a-pretty-picture/) showing what HL2 users actually see.
 

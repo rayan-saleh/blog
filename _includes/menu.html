@@ -11,8 +11,8 @@
     {% for item in site.data.menu %}
       <li {% if page.url == item.url %}class="active"{% endif %}>
         {% if item.url contains 'http' %}
-          <a href="{{ item.url }}">
-            {{ item.title }}{:target="_blank"}
+          <a href="{{ item.url }}"{:target="_blank"}>
+            {{ item.title }}
           </a>
         {% else %}
           <a href="{{ item.url | prepend: site.baseurl }}">
