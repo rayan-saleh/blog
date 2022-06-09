@@ -23,6 +23,22 @@ By far the most misleading part of the buying experience, however, is the blatan
 ![]({{ /assets/images/icon-512.png | prepend: site.baseurl }})
 *Tilt-five [video](https://www.reddit.com/r/augmentedreality/comments/uhiply/tilt_five_adding_new_experiences_to_system_they/) showcasing high-contrast 3D images in a well-lit room.*
 
+![](/assets/images/icon-512.png)
+1
+![](/images/icon-512.png)
+2
+![](/icon-512.png)
+3
+![](blog/assets/images/icon-512.png)
+4
+
+
+<img src='/assets/images/icon-512.png'></img>
+5
+
+
+<img src='blog/assets/images/icon-512.png'></img>
+6
 
 
 
