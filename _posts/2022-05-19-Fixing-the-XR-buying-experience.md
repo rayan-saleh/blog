@@ -16,21 +16,16 @@ By far the most misleading part of the buying experience, however, is the blatan
 *Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.*
 
 
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/634527d7-f026-411b-b4fc-6849390e33b3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220609T152313Z&X-Amz-Expires=86400&X-Amz-Signature=5c2ead6fe01f25c3332f99985f2e295c37324c21106ea89c5aa18c0147e5a254&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+*Shot-through [images](https://kguttag.com/2019/12/18/hololens-2-not-a-pretty-picture/) showing what HL2 users actually see.*
 
 
-![Promo video from the Hololens [homepage](https://www.microsoft.com/en-us/hololens). No ‘real’ demo shown.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71fec866-f0fa-472e-ba0f-05a9e7814afc/ezgif-5-bf6ec19f63.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220609T151438Z&X-Amz-Expires=86400&X-Amz-Signature=afe75229bd8d6be11f741a83e17ec72cdde7dd78133528386160e6066538fad3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ezgif-5-bf6ec19f63.gif%22&x-id=GetObject)
+![]({{ /assets/images/icon-512.png | prepend: site.baseurl }})
+*Tilt-five [video](https://www.reddit.com/r/augmentedreality/comments/uhiply/tilt_five_adding_new_experiences_to_system_they/) showcasing high-contrast 3D images in a well-lit room.*
 
 
-![Amazon Rainforest](blog/assets/images/icon-512.png)
 
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/634527d7-f026-411b-b4fc-6849390e33b3/Untitled.png)
-
-Shot-through [images](https://kguttag.com/2019/12/18/hololens-2-not-a-pretty-picture/) showing what HL2 users actually see.
-
-![Tilt-five [video](https://www.reddit.com/r/augmentedreality/comments/uhiply/tilt_five_adding_new_experiences_to_system_they/) showcasing high-contrast 3D images in a well-lit room.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3676c784-d567-49bd-8d3f-e045aed312ee/ezgif-5-939f735720.gif)
-
-Tilt-five [video](https://www.reddit.com/r/augmentedreality/comments/uhiply/tilt_five_adding_new_experiences_to_system_they/) showcasing high-contrast 3D images in a well-lit room.
 
 ![Shot-through [video](https://www.youtube.com/watch?v=lRGHBtshVEo) in dark room.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd57d953-1a29-4b70-b4b3-de848745ad0c/clipboard_(3).png)
 
