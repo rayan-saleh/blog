@@ -13,33 +13,33 @@ By far the most misleading part of the buying experience, however, is the blatan
 
 
 <figure>
-  <img src="/blog/assets/images/ezgif-5-bf6ec19f63.gif" style="width:100%">
+  <img src="/assets/images/ezgif-5-bf6ec19f63.gif" style="width:100%">
   <figcaption>Promo video from the Hololens <a href="https://www.microsoft.com/en-us/hololens">homepage</a>. No ‘real’ demo shown.</figcaption>
 </figure>
 
 <figure>
-  <img src="/blog/assets/images/kguttag.png" style="width:100%">
+  <img src="/assets/images/kguttag.png" style="width:100%">
   <figcaption>Shot-through <a href="https://kguttag.com/2019/12/18/hololens-2-not-a-pretty-picture/">images</a> showing what HL2 users actually see.</figcaption>
 </figure>
 
 <figure>
-  <img src="/blog/assets/images/ezgif-5-939f735720.gif" style="width:100%">
+  <img src="/assets/images/ezgif-5-939f735720.gif" style="width:100%">
   <figcaption>Tilt-five <a href="https://www.reddit.com/r/augmentedreality/comments/uhiply/tilt_five_adding_new_experiences_to_system_they/">video</a> showcasing high-contrast 3D images in a well-lit room.</figcaption>
 </figure>
 
 <figure>
-  <img src="/blog/assets/images/clipboardtilt.png" style="width:100%">
+  <img src="/assets/images/clipboardtilt.png" style="width:100%">
   <figcaption>Shot-through <a href="https://www.youtube.com/watch?v=lRGHBtshVEo">video</a> in dark room.</figcaption>
 </figure>
 
 <figure>
-  <img src="/blog/assets/images/ezgif-5-0d4b5a2fe3.gif" style="width:100%">
+  <img src="/assets/images/ezgif-5-0d4b5a2fe3.gif" style="width:100%">
   <figcaption>Quest promo <a href="https://www.youtube.com/watch?v=60yP8f5E-B4">video</a> showing full FoV and near-eye-level resolution.</figcaption>
 </figure>
 
 
 <figure>
-  <img src="/blog/assets/images/THROUGH_THE_LENSES__Quest_2_vs_Quest_1.gif" style="width:100%">
+  <img src="/assets/images/THROUGH_THE_LENSES__Quest_2_vs_Quest_1.gif" style="width:100%">
   <figcaption>Shot-through <a href="https://www.youtube.com/watch?v=2FH4iIrY5LU">video</a> on the quest.</figcaption>
 </figure>
 
