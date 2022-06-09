@@ -12,11 +12,11 @@
       <li {% if page.url == item.url %}class="active"{% endif %}>
         {% if item.url contains 'http' %}
           <a href="{{ item.url }}">
-            {{ item.title }}
+            {{ item.title }}{:target="_blank"}
           </a>
         {% else %}
           <a href="{{ item.url | prepend: site.baseurl }}">
-            {{ item.title }}
+            {{ item.title }{:target="_blank"}}
           </a>
         {% endif %}
       </li>
