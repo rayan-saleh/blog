@@ -55,9 +55,9 @@ An overlooked aspect of bandwidth is its *effective* increase over longer period
 
 To many, this will sound dystopian. Even if this type of pushback happens during every platform shift, the fact that we’re still struggling to contend with the side effects of excessive social media and smartphone usage suggests that people are right to be at least a little concerned. Mass adoption of PBCs will take place whether we like it or not so it’s worth learning about the dangers to try to minimise them. I think a combination of an adjustment period plus the building of tools to help us combat unnecessary distractions and dopamine-driven UX will help mitigate most of the downsides. Since competing PBC companies are inclined to build things customers want, this is ultimately going to be a battle between our collective neocortexs and limbic systems[^8]to make the correct product decisions - but I’m pretty optimistic that Team Neocortex will come out on top.[^9]
 
-There are additional doubts too. Even though virtual reality (VR) has been hyped about for many years now, it hasn’t become a major computer platform like many initially thought. Most of us are familiar with how VR can enhance your sense of immersion. The reason VR itself hasn’t (and most likely won’t) become the next computer platform is because immersion-as-a-property *alone* isn’t strongly desired in our everyday lives. Even when immersion is by far the highest ranking property in an application, the advantages of VR rarely outweigh the inconvenient, clunky and slow UX. This is clearly seen its adoption within the gaming community - a medium perfectly situated to take full advantage of this capability. It turns out that only a small subset of gamers rate immersion as the single core property, so adoption has [stayed low](https://www.statista.com/statistics/499714/global-virtual-reality-gaming-sales-revenue/). 
+There are additional doubts too. Even though virtual reality (VR) has been hyped about for many years now, it hasn’t become a major computer platform like many initially thought. Most of us are familiar with how VR can enhance your sense of immersion. The reason VR itself hasn’t (and most likely won’t) become the next computer platform is because immersion-as-a-property *alone* isn’t strongly desired in our everyday lives. Even when immersion is by far the highest ranking property in an application, the advantages of VR rarely outweigh the inconvenient, clunky and slow UX. This is clearly seen in its adoption within the gaming community - a medium perfectly situated to take full advantage of this capability. It turns out that only a small subset of gamers rate immersion as the single core property, so adoption has [stayed low](https://www.statista.com/statistics/499714/global-virtual-reality-gaming-sales-revenue/). 
 
-If VR applications can be thought of replacing immersive applications on previous platforms, PBC applications can be thought of as replacing utilitarian applications - like the way we work and interact with people and computers.
+If VR applications can be thought of replacing *immersive* applications on previous platforms, PBC applications can be thought of as replacing *utilitarian* applications - like the way we work and interact with people and computers.
 
 ### Solutions
 
@@ -78,14 +78,12 @@ When people hear BCI they immediately think of implanting chips in the brain. Th
 
 To get to this future we’re going to need great software. Today, nearly all our interactions with computers are either on web browsers or use web technologies.[^11]So, we think the most important piece of the software puzzle is going to look like an open, cross-platform web browser, allowing you to work and play in AR using multiple types of input. The browsers used in XR today (of which there are very few) are just worse copies of browsers that exist on current platforms. We think that’s unimaginative. For PCBs to become the next platform, we need to be able to take full advantage of their potential. Alongside new features like multiplayer mode, we’re also working hard on making it easier for others to build powerful new applications to bring the web to AR.
 
-![Screenshot from Arda early working prototype.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0adc2f02-fba2-4637-9bce-37137e791c91/Untitled.png)
-
 <figure>
   <img src="/assets/images/demoSC.png" style="width:100%">
   <figcaption>Screenshot from Arda early working prototype</figcaption>
 </figure>
 
-The ability to add pixels on the real world and increase i/o bandwidth by an order of magnitude will allow humans and computers to be more productive than ever. As the hardware gets smaller, and with practical AR just around the corner, we’re close to transforming PCBs from something nerds and hobbyists find interesting to something that also looks more like a computer platform.
+The ability to add pixels on the real world and increase i/o bandwidth by an order of magnitude will allow humans and computers to be more productive than ever. As the hardware gets smaller, and with practical AR just around the corner, we’re close to transforming PCBs from something nerds and hobbyists find interesting to something that also looks a lot like a new computer platform.
 
 [^1]: As opposed to cultural, political, economic 
 
