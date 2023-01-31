@@ -5,12 +5,10 @@ category:
 layout: post
 ---
 
-As a self-appointed generalist, finding advice confirming how valuable we are these days is easy [^1]. The narrative usually goes that the most successful people in society, from CEOs, top-percentile content creators, and investors are actually generalists and our outdated education system forces us to specialise like factory workers living in the 1800s. While there is some truth to this, I’ve been thinking about exactly for which situations (and for what reasons) this would hold true. My conclusion ended up being a harder-pill-to-swallow than I anticipated.
+As a self-appointed generalist, finding advice confirming how valuable we are these days is easy [^1]. Here's how the narrative usually goes: the most successful people in society, from CEOs, top-percentile content creators, and investors are actually generalists, and our outdated education system forces us to specialise like factory workers living in the 1800s. While there is some truth to this, I’ve been thinking about exactly for which situations (and for what reasons) this would hold true. My conclusion ended up being a harder-pill-to-swallow than I anticipated.
 
-What does it mean to create value? A large part of the answer involves being able to solve problems people face. People dislike pain and so if you’re able to reduce it, they’ll reward you. The more painful the problem and the more often it occurs, the more value (and therefore wealth) gets associated with solving it.
-
-On the other side of the equation, the value associated with solving a problem that few people can solve is higher because of the reduced competition. A major component of the supply side is the complexity and expertise required to solve said problem since fewer people have the skill, experience and knowledge needed to solve it.
-
+What does it mean to create value? A large part of the answer involves being able to solve problems people face. People dislike pain and so if you’re able to reduce it, they’ll reward you. The more painful the problem and the more often it occurs, the more value (and therefore wealth) gets associated with solving it. On the other side of the equation, the value associated with solving a problem that few people can solve is higher because of the reduced competition. A major component of the supply side is the complexity and expertise required to solve said problem since fewer people have the skill, experience and knowledge needed to solve it.
+<br>
 So, to create value you need to:
   1. Find problems that are painful and frequent;
   2. Have the skills, experience and knowledge to solve those problems better than anyone else [^2]
@@ -21,11 +19,9 @@ To clarify, I’ll use an extreme, fictional character who is *just ok* at the e
 
 So, if specialists create all the value and you aren’t a specialist already, how can you become one? I suspect for most people, the latter example of becoming very good (top 25%) [^3] at two or more things is the much more likely path to take. The best bet here is to experiment in different specialties over time, staying mindful of how your temperament and privileges can combine to give you an edge. With any luck, you’ll find the answer to the former question too - matching your skills to appropriate problems can be just as tricky as acquiring them; here specialisation gifts you boundary conditions around your circle of competency to help guide you on your search.
 
-Having a wide range of skills and knowledge (alongside specialising) can still be useful by giving you a unique perspective on solving problems that other specialists might not have. The extent to which you should sacrifice depth for breadth, however, depends on what you want to work towards.
+Having a wide range of skills and knowledge (alongside specialising) can still be useful by giving you a unique perspective on solving problems that other specialists might not have. The extent to which you should sacrifice depth for breadth, however, depends on what you want to work towards. Additionally, some problems specifically require a single person to move across several domains. A good example is founding a startup. It’s difficult to tell the exact problems you’ll face over a decade of building a company - so it’s good to be prepared. Some problems also become harder to solve as more people become involved [^4]. At some point, the advantages of having everything in a single person's head outweighs the specialisation of a team because of the added overhead. Ultimately, you’ll likely need to pivot or completely reorient your sjecialisation throughout your career and breadth can help you figure out and execute in this new direction.
 
-Additionally, some problems specifically require a single person to move across several domains. A good example is founding a startup. It’s difficult to tell the exact problems you’ll face over a decade of building a company - so it’s good to be prepared. Some problems also become harder to solve as more people become involved [^4]. At some point, the advantages of having everything in a single person's head outweighs the specialisation of a team because of the added overhead. Ultimately, you’ll likely need to pivot or completely reorient your sjecialisation throughout your career and breadth can help you figure out and execute in this new direction.
-
-###
+<br>
 
 It’s trendy to say that generalists are valuable, and it feels good to hear it without needing to put in the grunt work that’s required to specialise. But it’s historically untrue. Everyone that has managed to solve an important problem has either specialised in one or a few areas. This framework is extreme and may sound pessimistic but it's exciting to know that there's an infinite supply of problems (both big and small) that need to be solved and that there exists a unique combination of your potential abilities to solve them better than anyone else.
 
