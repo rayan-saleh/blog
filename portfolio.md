@@ -1,6 +1,6 @@
 ---
-title: The myth of the valuable generalist
-author: Rayan Saleh
+title: Portfolio
+author:
 category:
 layout: post
 ---
@@ -42,3 +42,26 @@ It’s trendy to say that generalists are valuable, and it feels good to hear it
   <img src="/assets/images/Yggdrasil.jpeg" style="width:100%">
   <figcaption></figcaption>
 </figure>
+
+
+<a href="{{ post.url | absolute_url }}" class="post-link">
+    <div class="post-link__heading">
+      <!-- {% unless post.title == "" %} -->
+      testHeading
+          <h1 class="post-link__title">      
+            <!-- {{ post.title }} -->
+            testTitle
+          </h1>
+          TestDiv
+      <!-- {% else %}
+        {% include post-excerpt.html %}
+      {% endunless %}
+      {% if post.title != "" and site.show_excerpts == true %}
+        {% include post-excerpt.html %}
+      {% endif %} -->
+    </div>
+    <span class="post-date">
+      <!-- {{ post.date | date: "%b %-d, '%y" }} -->
+      TestDate
+    </span>
+  </a>
