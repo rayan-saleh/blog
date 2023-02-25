@@ -46,3 +46,22 @@ test
       TestDate
     </span>
   </a>
+
+
+<!-- I want text on the left and text on the right on the same line -->
+
+
+  <p style="text-align: left;">
+    TestTitle
+  </p>
+  <span class="post-date">
+    TestDate
+  </span>
+
+
+  <p style="text-align:left;">
+    This text is left aligned
+    <span style="float:right;">
+        This text is right aligned
+    </span>
+</p>
