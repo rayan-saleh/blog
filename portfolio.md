@@ -5,7 +5,7 @@ category:
 layout: post
 ---
 
-As a self-appointed generalist, finding advice confirming how valuable we are these days is easy [^1]. Here's how the narrative usually goes: the most successful people in society, from CEOs, top-percentile content creators, and investors are actually generalists, and our outdated education system forces us to specialise like factory workers living in the 1800s. While there is some truth to this, I’ve been thinking about exactly for which situations (and for what reasons) this would hold true. My conclusion ended up being a harder-pill-to-swallow than I anticipated.
+test
 
 <br>
 
