@@ -59,9 +59,9 @@ test
   </span>
 
 
-  <p style="text-align:left;">
+  <h6 style="text-align:left;">
     This text is left aligned
-    <span style="float:right;">
+    <span class="post-date" style="float:right;">
         This text is right aligned
     </span>
-</p>
+</h6>
