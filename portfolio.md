@@ -6,6 +6,9 @@ layout: post
 ---
 
 test
+<span class="post-date">
+      TestDate
+    </span>
 
 <br>
 
@@ -22,8 +25,23 @@ test
   <figcaption>test caption</figcaption>
 </figure>
 
-<a >
-    <p> TestTitle</p>
+<a class="post-link">
+    TestTitle
+    <span class="post-date">
+      TestDate
+    </span>
+  </a>
+  
+
+  <a class="post-link" style="color:blue;">
+    TestTitle
+    <span class="post-date">
+      TestDate
+    </span>
+  </a>
+  
+  <a class="post-link" style="color:blue;">
+    TestTitle
     <span class="post-date">
       TestDate
     </span>
