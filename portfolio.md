@@ -22,8 +22,8 @@ test
   <figcaption>test caption</figcaption>
 </figure>
 
-<a class="post-link">
-    TestTitle
+<a >
+    <p> TestTitle</p>
     <span class="post-date">
       TestDate
     </span>
