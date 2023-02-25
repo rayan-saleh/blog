@@ -62,6 +62,10 @@ test
   <h6 style="text-align:left;">
     This text is left aligned
     <span class="post-date" style="float:right;">
-        This text is right aligned
+        This text is right aligned >
     </span>
 </h6>
+<figure>
+  <img src="/assets/images/arda_site.png" style="width:100%">
+  <figcaption>test caption</figcaption>
+</figure>
