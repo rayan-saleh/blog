@@ -10,7 +10,7 @@ layout: post
       2022
     </span>
     Arda.computer
-    <a style="float:right; font-style: normal;   text-decoration: none;" href="https://www.w3schools.com/">Website ⟩</a>
+    <a style="float:right; font-style: normal;   text-decoration: none;" href="https://arda.computer">Link ⟩</a>
 </h6>
 
 
@@ -25,6 +25,21 @@ layout: post
 </figure>
 <figure>
   <img src="/assets/images/weather_arda.png" style="width:100%">
+</figure>
+
+<hr style="margin: auto; margin-top: 20px;">  
+
+
+
+
+<figure>
+  <img src="/assets/images/mesh_front.png" style="width:100%">
+</figure>
+<figure>
+  <img src="/assets/images/mesh_price.png" style="width:100%">
+</figure>
+<figure>
+  <img src="/assets/images/mesh_stats.png" style="width:100%">
 </figure>
 
 <hr style="margin: auto; margin-top: 20px;">  
