@@ -7,13 +7,18 @@ layout: post
 
 <h6 style="text-align:left; font-style: normal; ">
     Arda.computer
-    <span class="post-date" style="post-date;  font-style: normal;">
-        2017
+    <span class="post-date" style="align-items: baseline; post-date;  font-style: normal;">
+        2022
     </span>
-    <span style="float:right; font-style: normal;">
+    <!-- <span style="float:right; font-style: normal;"> -->
+    <a style="float:right; font-style: normal;" href="https://www.w3schools.com/">Website ⟩</a>
+         Website ⟩
+    <!-- </span> -->
+</h6>
+
+<span style="float:right; font-style: normal;">
         ⟨ This text is right aligned >
     </span>
-</h6>
 
 
 <figure>
@@ -28,3 +33,7 @@ layout: post
 <figure>
   <img src="/assets/images/weather_arda.png" style="width:100%">
 </figure>
+
+<hr>  
+
+<h1>Projects</h1>
