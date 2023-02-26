@@ -10,15 +10,8 @@ layout: post
     <span class="post-date" style="align-items: baseline; post-date;  font-style: normal;">
         2022
     </span>
-    <!-- <span style="float:right; font-style: normal;"> -->
-    <a style="float:right; font-style: normal;" href="https://www.w3schools.com/">Website ⟩</a>
-         Website ⟩
-    <!-- </span> -->
-</h6>
-
-<span style="float:right; font-style: normal;">
-        ⟨ This text is right aligned >
-    </span>
+    <a style="float:right; font-style: normal;   text-decoration: none;" href="https://www.w3schools.com/">Website ⟩</a>
+</h6
 
 
 <figure>
@@ -34,6 +27,4 @@ layout: post
   <img src="/assets/images/weather_arda.png" style="width:100%">
 </figure>
 
-<hr>  
-
-<h1>Projects</h1>
+<hr style="margin: auto;">  
