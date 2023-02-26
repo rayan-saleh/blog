@@ -5,13 +5,13 @@ category:
 layout: post
 ---
 
-<h6 style="text-align:left; font-style: normal; ">
-    Arda.computer
+<h6 style="text-align:left; font-style: normal;">
     <span class="post-date" style="align-items: baseline; post-date;  font-style: normal;">
-        2022
+      2022
     </span>
+    Arda.computer
     <a style="float:right; font-style: normal;   text-decoration: none;" href="https://www.w3schools.com/">Website ⟩</a>
-</h6
+</h6>
 
 
 <figure>
@@ -27,4 +27,4 @@ layout: post
   <img src="/assets/images/weather_arda.png" style="width:100%">
 </figure>
 
-<hr style="margin: auto;">  
+<hr style="margin: auto; margin-top: 20px;">  
