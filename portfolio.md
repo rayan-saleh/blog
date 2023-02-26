@@ -27,7 +27,7 @@ layout: post
   <img src="/assets/images/weather_arda.png" style="width:100%">
 </figure>
 
-<hr style="margin: auto; margin-top: 5em;  margin-bottom: 10em;">  
+<hr style="margin: auto; margin-top: 6em;  margin-bottom: 6em;">  
 
 
 
@@ -48,7 +48,7 @@ layout: post
   <img src="/assets/images/mesh_stats.png" style="width:100%">
 </figure>
 
-<hr style="margin: auto; margin-top: 5em;  margin-bottom: 10em;">  
+<hr style="margin: auto; margin-top: 6em;  margin-bottom: 6em;">  
 
 
 
@@ -66,7 +66,7 @@ layout: post
   <img src="/assets/images/oneday_webapp.png" style="width:100%">
 </figure>
 
-<hr style="margin: auto; margin-top: 5em;  margin-bottom: 10em;">  
+<hr style="margin: auto; margin-top: 6em;  margin-bottom: 6em;">  
 
 
 
