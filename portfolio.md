@@ -5,67 +5,26 @@ category:
 layout: post
 ---
 
-test
-<span class="post-date">
-      TestDate
+<h6 style="text-align:left; font-style: normal; ">
+    Arda.computer
+    <span class="post-date" style="post-date;  font-style: normal;">
+        2017
     </span>
-
-<br>
-
-
-
-<figure>
-  <img src="/assets/images/Yggdrasil.jpeg" style="width:120%">
-  <figcaption>test caption</figcaption>
-</figure>
-
-
-<figure>
-  <img src="/assets/images/Yggdrasil.jpeg" style="width:100%">
-  <figcaption>test caption</figcaption>
-</figure>
-
-<a class="post-link">
-    TestTitle
-    <span class="post-date">
-      TestDate
-    </span>
-  </a>
-  
-
-  <a class="post-link" style="color:blue;">
-    TestTitle
-    <span class="post-date">
-      TestDate
-    </span>
-  </a>
-  
-  <a class="post-link" style="color:blue;">
-    TestTitle
-    <span class="post-date">
-      TestDate
-    </span>
-  </a>
-
-
-<!-- I want text on the left and text on the right on the same line -->
-
-
-  <p style="text-align: left;">
-    TestTitle
-  </p>
-  <span class="post-date">
-    TestDate
-  </span>
-
-
-  <h6 style="text-align:left;">
-    This text is left aligned
-    <span class="post-date" style="float:right;">
-        This text is right aligned >
+    <span style="float:right; font-style: normal;">
+        ⟨ This text is right aligned >
     </span>
 </h6>
+
+
 <figure>
   <img src="/assets/images/arda_site.png" style="width:100%">
-  <figcaption>test caption</figcaption>
+</figure>
+<figure>
+  <img src="/assets/images/icons_arda.png" style="width:100%">
+</figure>
+<figure>
+  <img src="/assets/images/windows_arda.png" style="width:100%">
+</figure>
+<figure>
+  <img src="/assets/images/weather_arda.png" style="width:100%">
 </figure>
