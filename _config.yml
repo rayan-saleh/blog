@@ -40,6 +40,8 @@ markdown: kramdown
 
 plugins:
   - jekyll-paginate
+  - jekyll-remote-theme
+  
 
 paginate: 30
 paginate_path: "/page/:num/"
@@ -51,3 +53,5 @@ hide_search: true
 
 # Google Analytics
 google_analytics: G-SK6E58KXYE
+
+remote_theme: jekyll/minima
