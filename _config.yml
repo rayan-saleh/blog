@@ -47,3 +47,7 @@ paginate_path: "/page/:num/"
 hide_credits: true
 
 hide_search: true
+
+
+# Google Analytics
+google_analytics: G-SK6E58KXYE
